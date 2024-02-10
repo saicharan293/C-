@@ -1,0 +1,14 @@
+D:\Downloads\C#\MeterReading\MeterReading\bin\Debug\net8.0\MeterReading.exe
+D:\Downloads\C#\MeterReading\MeterReading\bin\Debug\net8.0\MeterReading.deps.json
+D:\Downloads\C#\MeterReading\MeterReading\bin\Debug\net8.0\MeterReading.runtimeconfig.json
+D:\Downloads\C#\MeterReading\MeterReading\bin\Debug\net8.0\MeterReading.dll
+D:\Downloads\C#\MeterReading\MeterReading\bin\Debug\net8.0\MeterReading.pdb
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\MeterReading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\MeterReading.AssemblyInfoInputs.cache
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\MeterReading.AssemblyInfo.cs
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\MeterReading.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\MeterReading.dll
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\refint\MeterReading.dll
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\MeterReading.pdb
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\MeterReading.genruntimeconfig.cache
+D:\Downloads\C#\MeterReading\MeterReading\obj\Debug\net8.0\ref\MeterReading.dll

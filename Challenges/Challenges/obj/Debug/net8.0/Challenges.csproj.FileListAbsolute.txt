@@ -1,0 +1,14 @@
+D:\Downloads\C#\Challenges\Challenges\bin\Debug\net8.0\Challenges.exe
+D:\Downloads\C#\Challenges\Challenges\bin\Debug\net8.0\Challenges.deps.json
+D:\Downloads\C#\Challenges\Challenges\bin\Debug\net8.0\Challenges.runtimeconfig.json
+D:\Downloads\C#\Challenges\Challenges\bin\Debug\net8.0\Challenges.dll
+D:\Downloads\C#\Challenges\Challenges\bin\Debug\net8.0\Challenges.pdb
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\Challenges.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\Challenges.AssemblyInfoInputs.cache
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\Challenges.AssemblyInfo.cs
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\Challenges.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\Challenges.dll
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\refint\Challenges.dll
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\Challenges.pdb
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\Challenges.genruntimeconfig.cache
+D:\Downloads\C#\Challenges\Challenges\obj\Debug\net8.0\ref\Challenges.dll

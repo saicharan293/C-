@@ -1,0 +1,14 @@
+D:\Downloads\C#\Palidrome\Palidrome\bin\Debug\net8.0\Palidrome.exe
+D:\Downloads\C#\Palidrome\Palidrome\bin\Debug\net8.0\Palidrome.deps.json
+D:\Downloads\C#\Palidrome\Palidrome\bin\Debug\net8.0\Palidrome.runtimeconfig.json
+D:\Downloads\C#\Palidrome\Palidrome\bin\Debug\net8.0\Palidrome.dll
+D:\Downloads\C#\Palidrome\Palidrome\bin\Debug\net8.0\Palidrome.pdb
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\Palidrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\Palidrome.AssemblyInfoInputs.cache
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\Palidrome.AssemblyInfo.cs
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\Palidrome.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\Palidrome.dll
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\refint\Palidrome.dll
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\Palidrome.pdb
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\Palidrome.genruntimeconfig.cache
+D:\Downloads\C#\Palidrome\Palidrome\obj\Debug\net8.0\ref\Palidrome.dll

@@ -1,0 +1,14 @@
+D:\Downloads\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.exe
+D:\Downloads\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.deps.json
+D:\Downloads\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+D:\Downloads\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.dll
+D:\Downloads\C#\Factorial\Factorial\bin\Debug\net8.0\Factorial.pdb
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.dll
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.pdb
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+D:\Downloads\C#\Factorial\Factorial\obj\Debug\net8.0\ref\Factorial.dll

@@ -1,0 +1,14 @@
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.exe
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.deps.json
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.runtimeconfig.json
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.dll
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.pdb
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.AssemblyInfoInputs.cache
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.AssemblyInfo.cs
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.dll
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\refint\ArmstrongNumber.dll
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.pdb
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.genruntimeconfig.cache
+D:\Downloads\C#\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ref\ArmstrongNumber.dll
