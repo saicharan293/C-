@@ -1,0 +1,15 @@
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\bin\Debug\net8.0\ReverseOfNumber.exe
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\bin\Debug\net8.0\ReverseOfNumber.deps.json
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\bin\Debug\net8.0\ReverseOfNumber.runtimeconfig.json
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\bin\Debug\net8.0\ReverseOfNumber.dll
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\bin\Debug\net8.0\ReverseOfNumber.pdb
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.AssemblyInfoInputs.cache
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.AssemblyInfo.cs
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.sourcelink.json
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.dll
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\refint\ReverseOfNumber.dll
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.pdb
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ReverseOfNumber.genruntimeconfig.cache
+D:\Downloads\C#\ReverseOfNumber\ReverseOfNumber\obj\Debug\net8.0\ref\ReverseOfNumber.dll
