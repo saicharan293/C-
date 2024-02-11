@@ -1,0 +1,15 @@
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\bin\Debug\net8.0\SwapWithVariable.exe
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\bin\Debug\net8.0\SwapWithVariable.deps.json
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\bin\Debug\net8.0\SwapWithVariable.runtimeconfig.json
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\bin\Debug\net8.0\SwapWithVariable.dll
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\bin\Debug\net8.0\SwapWithVariable.pdb
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.AssemblyInfoInputs.cache
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.AssemblyInfo.cs
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.sourcelink.json
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.dll
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\refint\SwapWithVariable.dll
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.pdb
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\SwapWithVariable.genruntimeconfig.cache
+D:\Downloads\C#\SwapWithVariable\SwapWithVariable\obj\Debug\net8.0\ref\SwapWithVariable.dll
