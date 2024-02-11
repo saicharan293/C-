@@ -1,0 +1,15 @@
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\bin\Debug\net8.0\SumofTheDigits.exe
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\bin\Debug\net8.0\SumofTheDigits.deps.json
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\bin\Debug\net8.0\SumofTheDigits.runtimeconfig.json
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\bin\Debug\net8.0\SumofTheDigits.dll
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\bin\Debug\net8.0\SumofTheDigits.pdb
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.AssemblyInfoInputs.cache
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.AssemblyInfo.cs
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.sourcelink.json
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.dll
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\refint\SumofTheDigits.dll
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.pdb
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\SumofTheDigits.genruntimeconfig.cache
+D:\Downloads\C#\SumofTheDigits\SumofTheDigits\obj\Debug\net8.0\ref\SumofTheDigits.dll
