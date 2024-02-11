@@ -1,0 +1,15 @@
+D:\Downloads\C#\GuessingGame\GuessingGame\bin\Debug\net8.0\GuessingGame.exe
+D:\Downloads\C#\GuessingGame\GuessingGame\bin\Debug\net8.0\GuessingGame.deps.json
+D:\Downloads\C#\GuessingGame\GuessingGame\bin\Debug\net8.0\GuessingGame.runtimeconfig.json
+D:\Downloads\C#\GuessingGame\GuessingGame\bin\Debug\net8.0\GuessingGame.dll
+D:\Downloads\C#\GuessingGame\GuessingGame\bin\Debug\net8.0\GuessingGame.pdb
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfoInputs.cache
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfo.cs
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.sourcelink.json
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.dll
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\refint\GuessingGame.dll
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.pdb
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.genruntimeconfig.cache
+D:\Downloads\C#\GuessingGame\GuessingGame\obj\Debug\net8.0\ref\GuessingGame.dll
