@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SumOfExponentsOfDigits/1.0.0": {
+        "runtime": {
+          "SumOfExponentsOfDigits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumOfExponentsOfDigits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

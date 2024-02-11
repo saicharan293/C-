@@ -1,0 +1,15 @@
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\bin\Debug\net8.0\SumOfExponentsOfDigits.exe
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\bin\Debug\net8.0\SumOfExponentsOfDigits.deps.json
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\bin\Debug\net8.0\SumOfExponentsOfDigits.runtimeconfig.json
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\bin\Debug\net8.0\SumOfExponentsOfDigits.dll
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\bin\Debug\net8.0\SumOfExponentsOfDigits.pdb
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.AssemblyInfoInputs.cache
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.AssemblyInfo.cs
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.csproj.CoreCompileInputs.cache
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.sourcelink.json
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.dll
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\refint\SumOfExponentsOfDigits.dll
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.pdb
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\SumOfExponentsOfDigits.genruntimeconfig.cache
+D:\Downloads\C#\SumOfExponentsOfDigits\SumOfExponentsOfDigits\obj\Debug\net8.0\ref\SumOfExponentsOfDigits.dll
